@@ -22,6 +22,14 @@ main#lp2 > hgroup {
     text-align: center;
 }
 
+button {
+    padding: 0;
+}
+
+button > a{
+    padding: .5rem .75rem;
+}
+
 li > a:hover,
 button > a {
     text-decoration: none;
